@@ -11,7 +11,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - Expose details of movie (ratings using released date, RatingBar, popularity, and synopsis) in a separate activity when user selects "DETAILS".
 - Allow video posts to be played in full-screen using the YouTubePlayerView.
 - Implement a shared element transition when user clicks into the details of a movie.
-- Trailers for are played automatically when the user selects "PLAYER TRAILER".
+- Trailers for are played automatically when the user selects "PLAY TRAILER".
 - Add a rounded corners for the images using the Glide transformations.
 
 
